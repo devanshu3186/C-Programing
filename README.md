@@ -1,2 +1,2 @@
 # C-Programing
-This is My c programing journey.
+This is My C Programing journey.
